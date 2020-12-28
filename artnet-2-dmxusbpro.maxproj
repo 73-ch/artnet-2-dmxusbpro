@@ -2,9 +2,9 @@
 	"name" : "artnet-2-dmxusbpro",
 	"version" : 1,
 	"creationdate" : 3691890133,
-	"modificationdate" : 3691890203,
+	"modificationdate" : 3691999628,
 	"viewrect" : [ 25.0, 104.0, 300.0, 500.0 ],
-	"autoorganize" : 1,
+	"autoorganize" : 0,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 0,
@@ -28,6 +28,10 @@
 				"kind" : "object",
 				"local" : 1
 			}
+
+		}
+,
+		"other" : 		{
 
 		}
 
